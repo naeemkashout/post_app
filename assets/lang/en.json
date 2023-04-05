@@ -1,0 +1,27 @@
+{
+    "delete":"Delete",
+    "add":"Add",
+    "update":"Update",
+    "post_title":"Post title",
+    "post_body":"post body",
+    "posts":"Posts",
+    "comments":"Comments",
+    "settings":"Settings",
+    "add_comment":"Add comment",
+    "added":"Added",
+    "updated":"Updated ",
+    "adding":"Adding",
+    "successfully":"Successfully",
+    "updating":"Updating",
+    "error_when":"Error when ",
+    "name":"Name",
+    "add_post":"Add post",
+    "comment_title":"Title comeent",
+    "comment_body":"Post body",
+    "delete_comment":"Comment deleted successfully",
+    "error_delete_comment":"Error when delete comment",
+    "edit":"Edit",
+    "delete_post":"Post deleted successfully",
+    "error_delete_post":"Error when Deleting post"
+
+}

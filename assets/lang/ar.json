@@ -1,0 +1,27 @@
+{  
+    "delete":"حذف",
+    "add":"إضافة",
+    "update":"تعديل",
+    "post_title":"عنوان المنشور",
+    "post_body":"محتوى المنشور",
+    "posts":"المنشورات",
+    "comments":"التعليقات",
+    "settings":"الاعدادات",
+    "add_comment":"إضافة تعليق ",
+    "added":"تمت إضافته",
+    "updated":" تم تعديله ",
+    "adding":"إضافة",
+    "updating":"تعديل",
+    "successfully":"بنجاح",
+    "error_when":"خطأ عند ",
+    "name":"الأسم",
+    "add_post":"إضافة منشور ",
+    "comment_title":"عنوان التعليق",
+    "comment_body":"محتويات التعليق",
+    "delete_comment":"تم حذف التعليق بنجاح",
+    "error_delete_comment":"خطأ عند حذف التعليق",
+    "edit":"تعديل",
+    "delete_post":"تم حذف المنشور بنجاح",
+    "error_delete_post":"خطأ عند حذف المنشور"
+
+}
